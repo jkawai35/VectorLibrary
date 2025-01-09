@@ -1,3 +1,6 @@
+//Jaren Kawai
+//jkawai@ucsc.edu
+
 // DrawTriangle.js (c) 2012 matsuda
 function main() {  
   // Retrieve <canvas> element
